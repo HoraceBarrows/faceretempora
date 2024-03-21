@@ -1,0 +1,10 @@
+{
+  "name": "faceretempora",
+  "version": "1.0.0",
+  "main": "uws.js",
+  "author": "BellaKilback",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HoraceBarrows/faceretempora.git"
+  }
+}
